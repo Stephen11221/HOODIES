@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: rgb(5, 5, 30);
+    
+}
+
+header{
+    margin-left: 100px;
+    height: 15vh;
+    
+}
+.text-logo{
+    margin-top: -2px;
+    width: 20%;
+}
+header .text-logo  .h{
+    font-size: 60px;
+    color: palevioletred;
+}
+header .text-logo .oo{
+    font-size: 30px;
+    color: white;
+}
+header .text-logo .dies{
+    font-size: 30px;
+    color: palevioletred;
+}
+header .text-logo img{
+    height: 60px;
+    width: 90px;
+    border-radius: 80px;
+}
+header nav{
+    margin-left: 250px;
+    margin-top: -40px;
+}
+header nav ul li{
+    list-style: none;
+    text-align: left;
+    padding: 10px 40px;
+    float: left;
+}
+header nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+header .buy{
+    width: 150px;
+    height: 50px;
+    background-color: palevioletred;
+    color: aliceblue;
+    margin-top: -5px;
+    margin-left: 60px;
+}
+header .fa-suitcase{
+ color: aliceblue;
+ margin-left: 2px;
+}
+.row{
+    color: white;
+    margin-left: 150px;
+    width: 600px;
+}
+.row .card{
+    width: 150px;
+    border: solid 2px white;
+    height: 200px;
+    background: gray;
+    border-radius: 10px;
+}
+.row .card-body{
+    background-color: gray;
+}
+.card-body  h1{
+    background-color: gray;
+}
+.card-body p{
+    font-weight: bold;
+    color: rgb(208, 38, 95);
+    background-color: gray;
+}
+.row .card img{
+    height: 80px;
+    width: 80px;
+    border-radius: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.col-lg-5{
+    margin-left: 190px;
+    margin-top: -200px;
+}
+.col-lg-7{
+    margin-top: -200px;
+    margin-left: 380px;
+}
+.col-lg-50{
+
+    margin-left: 580px;
+    margin-top: -360px;
+}
+.col-lg-50 img {
+    height: 460px;
+    width: 500px;
+    border-top-left-radius: 180px;
+    border-bottom-left-radius: 120px;
+    border-top-right-radius: 290px;
+    border-bottom-right-radius: 290px;
+}
